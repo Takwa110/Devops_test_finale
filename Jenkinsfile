@@ -7,7 +7,7 @@ pipeline {
             steps {
                 echo 'Pulling...'
                 git branch: 'main',
-                    url: 'https://github.com/Takwa110/Devops_Test_Project.git'
+                    url: 'https://github.com/Takwa110/Devops_test_finale.git'
             }
         }
 
